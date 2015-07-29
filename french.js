@@ -10,6 +10,7 @@ var Language = function(language){
     for(var i=0; i<wordsArr.length; i++){
       if(input.toLowerCase() === wordsArr[i].toLowerCase()){
         $ouput.text(frenchArr[i]);
+        responsiveVoice.speak(frenchArr[i]);
       }
     }
   };

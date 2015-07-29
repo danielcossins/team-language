@@ -16,7 +16,7 @@ var Language = function(){
 $('button').on("click", function(){
   var $select = $('select').val();
   if($select==="Latin"){
-    Language.translateToLatin();
+   Language.translateToLatin();
   }
   if($select==="German"){
    Language.translateToGerman(); 
@@ -24,4 +24,5 @@ $('button').on("click", function(){
   if($select==="French"){
    Language.translateToFrench();
   }
+  
 })
