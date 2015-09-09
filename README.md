@@ -3,8 +3,8 @@ This is an app that will translate a few select words into either French, German
 Created week 4 of class at Nashville Software School.
 
 ## other contributors:
-tannert44
-rachyll
+tannert44<br>
+rachyllmorgan
 
 #Usage
 Follow these instructions:
